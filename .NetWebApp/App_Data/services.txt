@@ -1,0 +1,16 @@
+123:123, 123
+localhost:22, nevynitsyn_daniil@knu.ua
+123:123, 123
+google.com:22, nevynitsyn_daniil@knu.ua
+192.168.204.128:23, nevynitsyn_daniil@knu.ua
+google.com:22, nevynitsyn_daniil@knu.ua
+google.com:22, nevynitsyn_daniil@knu.ua
+google.com:22, nevynitsyn_daniil@knu.ua
+192.168.204.128:22, nevynitsyn_daniil@knu.ua
+192.168.204.128:23, nevynitsyn_daniil@knu.ua
+192.168.204.128:445, nevynitsyn_daniil@knu.ua
+123:23, nevynitsyn_daniil@knu.ua
+1234:23, nevynitsyn_daniil@knu.ua
+123:123, nevynitsyn_daniil@knu.ua
+google.com:23, nevynitsyn_daniil@knu.ua
+176.100.8.210:53322, nevynitsyn_daniil@knu.ua

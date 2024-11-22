@@ -1,0 +1,16 @@
+C:\STUDY\lab4.1\UDP_client\bin\Debug\net8.0-windows\UDP_client.exe
+C:\STUDY\lab4.1\UDP_client\bin\Debug\net8.0-windows\UDP_client.deps.json
+C:\STUDY\lab4.1\UDP_client\bin\Debug\net8.0-windows\UDP_client.runtimeconfig.json
+C:\STUDY\lab4.1\UDP_client\bin\Debug\net8.0-windows\UDP_client.dll
+C:\STUDY\lab4.1\UDP_client\bin\Debug\net8.0-windows\UDP_client.pdb
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.Form1.resources
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.csproj.GenerateResource.cache
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.AssemblyInfoInputs.cache
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.AssemblyInfo.cs
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.csproj.CoreCompileInputs.cache
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.dll
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\refint\UDP_client.dll
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.pdb
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\UDP_client.genruntimeconfig.cache
+C:\STUDY\lab4.1\UDP_client\obj\Debug\net8.0-windows\ref\UDP_client.dll

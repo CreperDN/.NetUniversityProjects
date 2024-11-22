@@ -1,0 +1,19 @@
+10/30/2024 4:58:16 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 4:58:18 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 4:58:50 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 4:58:53 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 5:04:24 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 5:04:27 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 5:04:45 PM: Socket Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+10/30/2024 5:04:47 PM: XML Processing Error: Root element is missing.
+10/30/2024 5:08:32 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 5:08:34 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 5:08:45 PM: Socket Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+10/30/2024 5:08:48 PM: XML Processing Error: Root element is missing.
+10/30/2024 5:08:55 PM: Socket Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+10/30/2024 5:08:57 PM: XML Processing Error: Root element is missing.
+10/30/2024 5:11:30 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 6:06:00 PM: Не вдалося змінити системний час. Код помилки: 1314
+10/30/2024 6:06:03 PM: Не вдалося змінити системний час. Код помилки: 1314
+11/22/2024 11:22:14 PM: Unexpected Error: An invalid IP address was specified.
+11/22/2024 11:22:15 PM: XML Processing Error: Root element is missing.

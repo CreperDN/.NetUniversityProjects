@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\STUDY\\lab4.1\\UDP_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|c:\\study\\lab4.1\\udp_server\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UDP_server||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|C:\\STUDY\\lab4.1\\UDP_server\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|C:\\STUDY\\lab4.1\\UDP_server\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92E65E4-4EC7-4756-B790-CE7A747FC422}|UDP_server.csproj|c:\\study\\lab4.1\\udp_server\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UDP_server",
+              "DocumentMoniker": "C:\\STUDY\\lab4.1\\UDP_server\\UDP_server.csproj",
+              "RelativeDocumentMoniker": "UDP_server.csproj",
+              "ToolTip": "C:\\STUDY\\lab4.1\\UDP_server\\UDP_server.csproj",
+              "RelativeToolTip": "UDP_server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T09:18:02.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\STUDY\\lab4.1\\UDP_server\\Service1.cs",
+              "RelativeDocumentMoniker": "Service1.cs",
+              "ToolTip": "C:\\STUDY\\lab4.1\\UDP_server\\Service1.cs",
+              "RelativeToolTip": "Service1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:10:16.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\STUDY\\lab4.1\\UDP_server\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ProjectInstaller.cs",
+              "ToolTip": "C:\\STUDY\\lab4.1\\UDP_server\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:59:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\STUDY\\lab4.1\\UDP_server\\Service1.cs",
+              "RelativeDocumentMoniker": "Service1.cs",
+              "ToolTip": "C:\\STUDY\\lab4.1\\UDP_server\\Service1.cs [Design]",
+              "RelativeToolTip": "Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:55:05.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

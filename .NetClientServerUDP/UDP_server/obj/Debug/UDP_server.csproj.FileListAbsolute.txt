@@ -1,0 +1,9 @@
+C:\STUDY\lab4.1\UDP_server\bin\Debug\UDP_server.exe.config
+C:\STUDY\lab4.1\UDP_server\bin\Debug\UDP_server.exe
+C:\STUDY\lab4.1\UDP_server\bin\Debug\UDP_server.pdb
+C:\STUDY\lab4.1\UDP_server\obj\Debug\UDP_server.csproj.AssemblyReference.cache
+C:\STUDY\lab4.1\UDP_server\obj\Debug\UDP_server.ProjectInstaller.resources
+C:\STUDY\lab4.1\UDP_server\obj\Debug\UDP_server.csproj.GenerateResource.cache
+C:\STUDY\lab4.1\UDP_server\obj\Debug\UDP_server.csproj.CoreCompileInputs.cache
+C:\STUDY\lab4.1\UDP_server\obj\Debug\UDP_server.exe
+C:\STUDY\lab4.1\UDP_server\obj\Debug\UDP_server.pdb
